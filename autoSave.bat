@@ -1,0 +1,2 @@
+C:\Windows\System32\robocopy "C:\Users\username\Documents " "D:\backupDestination\Documents " /E /A-:SH /V /R:1 /W:0 /XJ /MT:32 /PURGE
+C:\Windows\System32\robocopy "C:\Users\username\Desktop " "D:\backupDestination\Desktop " /E /A-:SH /V /R:1 /W:0 /XJ /MT:32 /PURGE
